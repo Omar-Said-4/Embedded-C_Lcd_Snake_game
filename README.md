@@ -4,6 +4,7 @@
 - 16x2 character LCD. 
 - 4 push buttons.
 - One Potentiometer.
+- Eclipse (for programming and debugging).
 ## Game Controls:
 Game has 4 push buttons each one is used to move the snake in a certain direction (up-down-right-left).
 (The move right and move left push buttons are used to  choose thw game difficulty initially).
